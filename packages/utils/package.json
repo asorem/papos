@@ -1,0 +1,17 @@
+{
+  "name": "@sorem/utils",
+  "version": "0.0.1",
+  "description": "utils lib",
+  "scripts": {},
+  "main": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "lib",
+    "shared"
+  ],
+  "author": "sorem",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "shared",
+  "version": "0.0.1",
+  "description": "Platform Operations",
+  "main": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "lib",
+    "shared"
+  ],
+  "author": "sorem",
+  "license": "ISC"
+}
