@@ -7,11 +7,12 @@
     "build": "unbuild",
     "play:nuxt": "pnpm run -r --filter=./playground/nuxt dev",
     "play:vite": "pnpm run -r --filter=./playground/vite dev",
+    "publish": "pnpm build && npm publish",
     "lint": "eslint --fix"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/asorem/lib"
+    "url": "https://github.com/apapos/papos"
   },
   "exports": {
     "./shared": {
@@ -31,7 +32,7 @@
     "lib",
     "common"
   ],
-  "author": "A Sore Man",
+  "author": "apapos",
   "license": "MIT",
   "packageManager": "pnpm@9.10.0",
   "devDependencies": {
