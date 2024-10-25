@@ -1,5 +1,5 @@
 {
-  "name": "@sorem/utils",
+  "name": "@papos/utils",
   "version": "0.0.1",
   "description": "utils lib",
   "scripts": {},
@@ -12,6 +12,6 @@
     "lib",
     "shared"
   ],
-  "author": "sorem",
+  "author": "apapos",
   "license": "ISC"
 }

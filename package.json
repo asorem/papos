@@ -7,12 +7,12 @@
     "build": "unbuild",
     "play:nuxt": "pnpm run -r --filter=./playground/nuxt dev",
     "play:vite": "pnpm run -r --filter=./playground/vite dev",
-    "publish": "pnpm build && npm publish",
+    "release": "pnpm build && npm publish",
     "lint": "eslint --fix"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apapos/papos"
+    "url": "git+https://github.com/apapos/papos.git"
   },
   "exports": {
     "./shared": {

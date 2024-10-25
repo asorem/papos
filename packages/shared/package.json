@@ -1,5 +1,5 @@
 {
-  "name": "shared",
+  "name": "@papos/shared",
   "version": "0.0.1",
   "description": "Platform Operations",
   "main": "./dist/index.mjs",
@@ -11,6 +11,6 @@
     "lib",
     "shared"
   ],
-  "author": "sorem",
+  "author": "apapos",
   "license": "ISC"
 }
