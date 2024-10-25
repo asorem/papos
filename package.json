@@ -1,6 +1,6 @@
 {
   "name": "papos",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Platform Operations",
   "type": "module",
   "scripts": {

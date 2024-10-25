@@ -1,6 +1,6 @@
 {
   "name": "@papos/shared",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Platform Operations",
   "main": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
