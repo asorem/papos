@@ -1,6 +1,6 @@
 {
   "name": "papos",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Platform Operations",
   "type": "module",
   "scripts": {
@@ -15,18 +15,13 @@
     "url": "git+https://github.com/apapos/papos.git"
   },
   "exports": {
-    "./shared": {
-      "types": "./packages/shared/dist/index.d.ts",
-      "import": "./packages/shared/dist/index.mjs"
-    },
-    "./utils": {
-      "types": "./packages/utils/dist/index.d.ts",
-      "import": "./packages/utils/dist/index.mjs"
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs"
     }
   },
   "files": [
-    "packages/shared/dist",
-    "packages/utils/dist"
+    "dist"
   ],
   "keywords": [
     "lib",

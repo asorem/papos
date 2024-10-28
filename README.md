@@ -13,7 +13,7 @@ pnpm add papos
 ## 使用方法
 
 ```javascript
-import { Cookie } from 'papos/shared'
+import { Cookie } from 'papos'
 
 // 示例代码
 const useCookies = new Cookie()
