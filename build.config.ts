@@ -2,8 +2,8 @@ import { defineBuildConfig } from 'unbuild'
 
 export default defineBuildConfig(
   {
-    rootDir: '.',
+    rootDir: 'packages/papos',
     entries: ['./index.ts'],
-    declaration: true,
+    declaration: true
   },
 )

@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
-import { isNumber } from '@alrno/shared'
-console.log(isNumber(42));
 
 </script>
 
